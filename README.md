@@ -89,18 +89,11 @@ el campo de texto.
 
 ---
 
-## 🎨 Captura de pantalla _(opcional)_
-
-> _(Agrega aquí una imagen si la subes a GitHub, por ejemplo)_\
-> ![Captura de la calculadora moderna](./screenshot.png)
-
----
-
 ## 🧑‍💻 Autor
 
-**Tu Nombre**\
-📧 <tuemail@example.com>\
-🐙 [github.com/tuusuario](https://github.com/tuusuario)
+**ManRio**\
+📧 <manureina87@gmail.com>\
+🐙 [github.com/manrio](https://github.com/manrio)
 
 ---
 
